@@ -1,2 +1,2 @@
 # A-Hybrid-Transformer-Convolutional-Framework-for-Explainable-Brain-Tumor-MRI-Classification.
-You proposed a novel hybrid model combining a Temporal Convolutional Network (TCN) with a Swin Transformer for brain tumor MRI classification. Using Grad-CAM for explainability, your approach achieved strong accuracy and interpretability, addressing temporal dependencies often overlooked in prior studies.
+You proposed a novel hybrid model combining a Temporal Convolutional Network (TCN) with a Swin Transformer for brain tumor MRI classification. Using Grad-CAM for explainability, your approach achieved strong accuracy and interpretability, addressing temporal dependencies often overlooked in prior studies...
